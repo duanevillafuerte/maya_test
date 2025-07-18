@@ -1,16 +1,16 @@
-# myapp
+# MAYA TEST
 
-A new Flutter project.
+Maya exam written in Flutter by Duane Villafuerte.
 
-## Getting Started
+## Notes
+- Only developed with Android as platform
+- Developed in Firebase Studio (Project IDX)
+- Done on short notice, typos or missing tests may occur
+- Spent around 16~ hours in development
+- Some details of the exam are not clear so I used my judgement in order to move forward
+- Sadly, not enough time to do Design documentations
 
-This project is a starting point for a Flutter application.
+## How to run
+- Can run in Firebase Studio, or any local machine. As long as Flutter environment is installed properly
+- `flutter test` to run tests. Include Unit tests & Widget tests. There are no integration tests as it is out of scope
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
