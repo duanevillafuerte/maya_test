@@ -12,5 +12,6 @@ Maya exam written in Flutter by Duane Villafuerte.
 
 ## How to run
 - Can run in Firebase Studio, or any local machine. As long as Flutter environment is installed properly
+- Use `Maya` for username, `test` for password
 - `flutter test` to run tests. Includes Unit tests & Widget tests. There are no Integration tests as it is out of scope
 
